@@ -93,7 +93,9 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 ✴ Poison Sting: Shoot a poisonous dart that damages the first target hit, with a 50% chance to inflict the target with Deadly Poison.
 
-# Types 💭:
+# Types 💭: (All types attributes will be Max 2. When a Pokemon is of a specific type, +1. Stab multiplier is * 1.3(Type).
+
+🔥 Fire
 
 # Effects 💭:
 
