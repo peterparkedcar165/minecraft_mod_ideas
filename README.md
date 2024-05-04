@@ -18,7 +18,7 @@ Arrow Velocity: +0.5, +0.75 Underwater;
 
 Effect Hit Rate: +50%, +75% Underwater;
 
-Swimming Speed: +50%.
+Swimming Speed: +75%.
 
 ### 🍀 Overgrow:
 When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases armor, and bonus is further increased when surrounded by leaves (1).
