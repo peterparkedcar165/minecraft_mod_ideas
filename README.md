@@ -17,6 +17,29 @@ When under 50% health, increase Attack Damage and Arrow Velocity. Also increases
 ### 🔥 Blaze:
 When under 50% health, increase Attack Damage and Arrow Velocity. Also increases movement speed, and bonus is further increased in direct sunlight or when on fire.
 # Moves 💭:
+💧 Bubble:
+
+💧 Water Gun:
+
+💧 Water Pulse:
+
+💧 Rain Dance:
+
+🍀 Absorb:
+
+🍀 Mega Drain:
+
+🍀 Giga Drain:
+
+🍀 Razor Leaf:
+
+🔥 Ember:
+
+🔥 Flame Burst:
+
+🔥 Flamethrower:
+
+🔥 Fire Blast:
 
 # Effects 💭:
 
