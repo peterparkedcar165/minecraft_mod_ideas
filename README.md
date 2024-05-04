@@ -31,7 +31,9 @@ Brave Bird
 Ember
 ### 🔥 Quilava:
 Flame Burst
+
 Smoke Screen
+
 Swift
 
 # Abilities 💭:
