@@ -41,6 +41,8 @@ When under 50% health, increase Attack Damage and Arrow Velocity. Also increases
 
 🔥 Fire Blast:
 
+# Types 💭:
+
 # Effects 💭:
 
 # Potions 💭:
