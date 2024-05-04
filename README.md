@@ -15,7 +15,7 @@ When under 50% health:
 
 Attack Damage: +3, +6 Underwater;
 
-Arrow Velocity: +0.5, +0.75 Underwater;
+Arrow Velocity: +0.15, +0.3 Underwater;
 
 Effect Hit Rate: +50%, +75% Underwater;
 
@@ -26,7 +26,7 @@ When under 50% health:
 
 Attack Damage: +3, +6 near leaves;
 
-Arrow Velocity: +0.5, +0.75 near leaves;
+Arrow Velocity: +0.15, +0.3 near leaves;
 
 Effect Hit Rate: +50%, +75% near leaves;
 
