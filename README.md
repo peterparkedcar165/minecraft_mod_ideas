@@ -32,15 +32,23 @@ Effect Hit Rate: +50%, +75% near leaves;
 
 Armor: +4, +8 near leaves.
 ### 🔥 Blaze:
-When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases movement speed, and bonus is further increased in direct sunlight or when on fire.
+When under 50% health:
+
+Attack Damage: +3, +6 in direct sunlight or on fire;
+
+Arrow Velocity: +0.15, +0.3 in direct sunlight or on fire;
+
+Effect Hit Rate: +50%, +75% in direct sunlight or on fire;
+
+Movement Speed: +15%, +25% near in direct sunlight or on fire.
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
-💧 Water Gun:
+💧 Water Gun: Shoot a jet of water, dealing moderate damage to the first entity hit.
 
-💧 Water Pulse:
+💧 Water Pulse: Unleash a bubble (cube) that remains and entraps hostiles.
 
-💧 Rain Dance:
+💧 Rain Dance: Turns the world rainy.
 
 🍀 Absorb:
 
@@ -50,13 +58,15 @@ When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rat
 
 🍀 Razor Leaf:
 
-🔥 Ember:
+🔥 Ember: Shoot a ball of flame, damaging the first target hit, with a 50% base chance to set target on fire for 4 seconds.
 
-🔥 Flame Burst:
+🔥 Flame Burst: Shoot a ball of flame that bursts into smaller flames. If the subsequent flames don't hit targets, they leave a trail of fire on the ground.
 
-🔥 Flamethrower:
+🔥 Flamethrower: Unleash a flurry of flames towards foes.
 
 🔥 Fire Blast:
+
+✴ Poison Sting: Shoot a poisonous dart that damages the first target hit, with a 50% chance to inflict the target with Deadly Poison.
 
 # Types 💭:
 
