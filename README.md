@@ -10,7 +10,16 @@
 
 # Abilities 💭:
 ### 💧 Torrent:
-When under 50% health:\n Attack Damage: +5;\nArrow Velocity: +0.5;\nEffect Hit Rate: +50%;\nSwimming Speed: +50%. and bonus is further increased underwater.
+When under 50% health:
+
+Attack Damage: +5, +7 Underwater;
+
+Arrow Velocity: +0.5, +0.75 Underwater;
+
+Effect Hit Rate: +50%, +75% Underwater;
+
+Swimming Speed: +50%.
+
 ### 🍀 Overgrow:
 When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases armor, and bonus is further increased when surrounded by leaves (1).
 ### 🔥 Blaze:
