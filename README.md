@@ -5,18 +5,26 @@ File that contains my brainstorming for a great Pokemon Minecraft mod.
 Bubble
 ### 💧 Prinplup:
 Water Pulse
+
 Metal Claw
+
 Bubble
+
 ### 🍀 Rowlet:
 Leafage
+
 Peck
 ### 🍀 Dartrix:
 Razor Leaf
+
 Aerial Ace
+
 Leafage
 ### 🍀 Decidueye:
 Spirit Shackle
+
 Leaf Storm
+
 Brave Bird
 
 ### 🔥 Cyndaquil:
