@@ -48,7 +48,7 @@ When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rat
 
 # Attributes 💭:
 
-Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. Used to quantify damage dealt by abilities. Equal to 100% of Attack Damage, 400% of Arrow Damage and Velocity after 1.
+Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. Used to quantify damage dealt by abilities. Equal to 100% of Attack Damage, 400% of Arrow Damage and Velocity.
 
 # Enchants 💭:
 
