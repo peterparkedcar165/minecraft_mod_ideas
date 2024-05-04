@@ -10,11 +10,11 @@
 
 # Abilities 💭:
 ### 💧 Torrent:
-When under 50% health, increase Attack Damage and Arrow Velocity. Also increases swimming speed, and bonus is further increased underwater.
+When under 50% health, increase Attack Damage, Arrow Velocity, and Effect Hit Rate. Also increases swimming speed, and bonus is further increased underwater.
 ### 🍀 Overgrow:
-When under 50% health, increase Attack Damage and Arrow Velocity. Also increases armor, and bonus is further increased when surrounded by leaves (1).
+When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases armor, and bonus is further increased when surrounded by leaves (1).
 ### 🔥 Blaze:
-When under 50% health, increase Attack Damage and Arrow Velocity. Also increases movement speed, and bonus is further increased in direct sunlight or when on fire.
+When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases movement speed, and bonus is further increased in direct sunlight or when on fire.
 # Moves 💭:
 💧 Bubble:
 
