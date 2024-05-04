@@ -12,7 +12,7 @@
 ### 💧 Torrent:
 When under 50% health:
 
-Attack Damage: +5, +7 Underwater;
+Attack Damage: +3, +6 Underwater;
 
 Arrow Velocity: +0.5, +0.75 Underwater;
 
