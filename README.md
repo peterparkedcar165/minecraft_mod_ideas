@@ -10,6 +10,17 @@ Metal Claw
 
 Bubble
 
+### 💧 Empoleon:
+Whirlpool
+
+Scald
+
+Flash Cannon
+
+Water Pulse
+
+Metal Claw
+
 ### 🍀 Rowlet:
 Leafage
 
