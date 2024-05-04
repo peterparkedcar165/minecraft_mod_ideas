@@ -1,5 +1,5 @@
 # Minecraft Pokemon Mod:
-
+File that contains my brainstorming for a great Pokemon Minecraft mod.
 # Pokemon Evolutionary Line💭:
 ### 💧 Piplup:
 Bubble
