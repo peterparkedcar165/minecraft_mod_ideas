@@ -9,7 +9,6 @@
 
 
 # Abilities 💭:
-
 ### 💧 Torrent:
 When under 50% health, increase Attack Damage and Arrow Velocity. Also increases swimming speed, and bonus is further increased underwater.
 ### 🍀 Overgrow:
