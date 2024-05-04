@@ -21,7 +21,15 @@ Effect Hit Rate: +50%, +75% Underwater;
 Swimming Speed: +75%.
 
 ### 🍀 Overgrow:
-When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases armor, and bonus is further increased when surrounded by leaves (1).
+When under 50% health:
+
+Attack Damage: +3, +6 near leaves;
+
+Arrow Velocity: +0.5, +0.75 near leaves;
+
+Effect Hit Rate: +50%, +75% near leaves;
+
+Armor: +4.
 ### 🔥 Blaze:
 When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases movement speed, and bonus is further increased in direct sunlight or when on fire.
 # Moves 💭:
