@@ -2,6 +2,7 @@
 
 # Pokemon Evolutionary Line💭:
 ### 💧 Piplup:
+Bubble
 
 ### 🍀 Rowlet:
 
@@ -33,7 +34,7 @@ Armor: +4, +8 near leaves.
 ### 🔥 Blaze:
 When under 50% health, increase Attack Damage Arrow Velocity, and Effect Hit Rate. Also increases movement speed, and bonus is further increased in direct sunlight or when on fire.
 # Moves 💭:
-💧 Bubble:
+💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
 💧 Water Gun:
 
