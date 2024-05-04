@@ -29,7 +29,10 @@ Brave Bird
 
 ### 🔥 Cyndaquil:
 Ember
-
+### 🔥 Quilava:
+Flame Burst
+Smoke Screen
+Swift
 
 # Abilities 💭:
 ### 💧 Torrent:
