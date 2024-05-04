@@ -1,6 +1,22 @@
 # Minecraft Pokemon Mod:
 
-# Pokemon 💭:
+# Pokemon Evolutionary Line💭:
+### Weedle:
+
+### Piplup:
+
+### Popplio:
+
+### Rowlet:
+
+### Slugma:
+
+### Hoppip:
+
+### Alolan Vulpix:
+
+### Cyndaquil:
+
 
 # Abilities 💭:
 
