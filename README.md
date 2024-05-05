@@ -96,6 +96,7 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 🍀 Giga Drain:
 
+🍀 Leafage: Send forth 
 🍀 Razor Leaf:
 
 🔥 Ember: Shoot a ball of flame, damaging the first target hit, with a 50% base chance to set target on fire for 4 seconds.
