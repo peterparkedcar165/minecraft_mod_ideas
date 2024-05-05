@@ -121,9 +121,21 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 ❄️ Ice: Immune to Freezing damage.
 
-🪶 Flying: No fall damage. Increased air speed by a little.
+🐦 Flying: No fall damage. Increased air speed by a little.
 
 🕸️ Bug: May move faster within cobweb, and climb freely. Unaffected by cacti and berry bushes.
+
+👻 Ghost: Can phase through walls for a very short duration. Take increased suffocation damage.
+
+🌙 Dark: During night time, Movement Speed +15%, Stealth +25%.
+
+👊 Fighting: Increased Attack Damage and Attack Speed.
+
+💀 Poison: Immune to Poison, Wither, Deadly Poison, Toxic, Hunger, Nausea.
+
+🪨 Rock: Increased Attack Damage and Armor when in low altitude (<60)
+
+🛡️ Steel: Increase Armor, Armor grants extra Attack Power.
 
 # Effects 💭:
 
