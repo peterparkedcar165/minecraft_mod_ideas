@@ -88,6 +88,8 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 💧 Rain Dance: Turns the world rainy.
 
+💧 Whirlpool: Shoot a big bubble projectile, that bursts into a vortex of bubbles, luring enemies in and damaging them over time.
+
 🍀 Absorb:
 
 🍀 Mega Drain:
