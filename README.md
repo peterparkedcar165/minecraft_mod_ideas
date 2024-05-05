@@ -111,7 +111,19 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 # Types 💭:
 ## (All types attributes will be Max 2. When a Pokemon is of a specific type, +1. Stab multiplier is * 1.3(Type).
 
-🔥 Fire
+🔥 Fire: Take reduced damage from Fire attacks.
+
+💧 Water: Swim faster underwater, can breathe.
+
+🍀 Grass: Can regenerate nutrients but not saturation, when on water or sunlight. Slowly though.
+
+👁️ Psychic: Increased Mana Regen, increased Cooldown Reduction, and Effect Rate.
+
+❄️ Ice: Immune to Freezing damage.
+
+🪶 Flying: No fall damage. Increased air speed by a little.
+
+🕸️ Bug: May move faster within cobweb, and climb freely. Unaffected by cacti and berry bushes.
 
 # Effects 💭:
 
