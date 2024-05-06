@@ -78,6 +78,8 @@ Arrow Velocity: +0.15, +0.3 in direct sunlight or on fire;
 
 Effect Hit Rate: +50%, +75% in direct sunlight or on fire;
 
+Movement Speed: +15%, +25% near in direct sunlight or on fire.
+
 ### 🔫 Sniper:
 Crit Chance: +50%.
 
@@ -90,15 +92,14 @@ In direct sunlight, Movement Speed: +15%.
 ### 🩰 Dancer: [Completely Changed]
 Passive Aura depending on current state:
 
-Pom-Pom: +10% Movement Speed, +25% Draw Speed, +0.25 Attack Speed.
+🏅 Pom-Pom: +10% Movement Speed, +25% Draw Speed, +0.25 Attack Speed.
 
-Baile: +15% Arrow Velocity, +15% Attack Damage.
+💃 Baile: +15% Arrow Velocity, +15% Attack Damage.
 
-Pa'U: +10% Cooldown Reduction, +25% Mana Regen, +3 Attack Power.
+🌴 Pa'U: +10% Cooldown Reduction, +25% Mana Regen, +3 Attack Power.
 
-Sensu: +15% Stealth and Evasion.
+👘 Sensu: +15% Stealth and Evasion.
 
-Movement Speed: +15%, +25% near in direct sunlight or on fire.
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
