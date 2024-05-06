@@ -112,15 +112,15 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 # Types 💭:
 ## (All types attributes will be Max 2. When a Pokemon is of a specific type, +1. Stab multiplier is * 1.3(Type).
 
-🔥 Fire: Take reduced damage from Fire attacks.
+🔥 Fire: Take reduced damage from Fire attacks. Decrease Damage Taken in Nether.
 
 💧 Water: Swim faster underwater, can breathe underwater, and mine slightly faster.
 
-🍀 Grass: Can regenerate nutrients but not saturation, when on water or sunlight. Slowly though.
+🍀 Grass: Can regenerate nutrients but not saturation, when on water or sunlight. Slowly though. When food is at max, not saturation, increase armor.
 
 👁️ Psychic: Increased Mana Regen, increased Cooldown Reduction, and Effect Rate.
 
-❄️ Ice: Immune to Freezing damage.
+❄️ Ice: Immune to Freezing damage, Slowness, and Mining Fatigue.
 
 🐦 Flying: No fall damage. Increased air speed by a little.
 
@@ -128,7 +128,7 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 👻 Ghost: Can phase through walls for a very short duration. Take increased suffocation damage. Increase Evasion by 25%, 50% when in <6 light level.
 
-🌙 Dark: During night time, Movement Speed +15%, Stealth +25%.
+🌙 Dark: During night time, Movement Speed +15%, Stealth +25%, Evasion +25%.
 
 👊 Fighting: Increased Attack Damage and Attack Speed.
 
