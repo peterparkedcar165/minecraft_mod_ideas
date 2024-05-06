@@ -114,7 +114,7 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 🔥 Fire: Take reduced damage from Fire attacks.
 
-💧 Water: Swim faster underwater, can breathe.
+💧 Water: Swim faster underwater, can breathe underwater, and mine slightly faster.
 
 🍀 Grass: Can regenerate nutrients but not saturation, when on water or sunlight. Slowly though.
 
@@ -138,7 +138,7 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 🛡️ Steel: Increase Armor, Armor grants extra Attack Power.
 
-✨ Fairy: Standing around flowers or in light levels of above 6 grants Damage Reduction and slow regeneration.
+✨ Fairy: Standing around flowers or in light levels of above 6 grants Damage Reduction, slow regeneration, and cooldown reduction.
 
 # Effects 💭:
 
