@@ -126,7 +126,7 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 🕸️ Bug: May move faster within cobweb, and climb freely. Unaffected by cacti and berry bushes.
 
-👻 Ghost: Can phase through walls for a very short duration. Take increased suffocation damage.
+👻 Ghost: Can phase through walls for a very short duration. Take increased suffocation damage. Increase Evasion by 25%, 50% when in <6 light level.
 
 🌙 Dark: During night time, Movement Speed +15%, Stealth +25%.
 
