@@ -138,6 +138,8 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 🛡️ Steel: Increase Armor, Armor grants extra Attack Power.
 
+✨ Fairy: Standing around flowers or in light levels of above 6 grants Damage Reduction and slow regeneration.
+
 # Effects 💭:
 
 # Potions 💭:
