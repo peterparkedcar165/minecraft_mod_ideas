@@ -55,23 +55,33 @@ Harden
 Poison Sting
 ### 🕸️💀 Beedrill:
 Pin Missile
+
 Twineedle
+
 Poison Jab
+
 Focus Energy
+
 
 ### 👁️ Espurr:
 Confusion
 
 ### 👁️ Meowstic (M):
 Psybeam
+
 Safeguard
+
 Reflect/Light Screen (make it one)
+
 Psychic Terrain
 
 ### 👁️ Meowstic (F):
 Psychic
+
 Psyshock
+
 Nasty Plot
+
 Expanding Force
 
 # Abilities 💭:
@@ -212,5 +222,18 @@ Passive Aura depending on current state:
 Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. Used to quantify damage dealt by abilities. Equal to 100% of Attack Damage, 400% of Arrow Damage and Velocity.
 
 # Enchants 💭:
+
+
+# Special Treatments 💭:
+Espurr line are Cats, so Creepers ignore, or run away from.
+
+Rowlet line has natural elytra flight, duration scales over evolution.
+
+Beedrill has wings, so can fly, for a duration.
+
+Ralts, Kirlia, Gardevoir have decreased Attack Speed and Attack Damage, but have increased Cooldown Reduction and Attack Power to compensate.
+
+Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased Attack Power, Attack Damage, and Attack Speed.
+
 
 # Misc 💭:
