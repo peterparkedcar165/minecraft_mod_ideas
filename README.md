@@ -133,6 +133,8 @@ Passive Aura depending on current state:
 
 ✴ Poison Sting: Shoot a poisonous dart that damages the first target hit, with a 50% chance to inflict the target with Deadly Poison.
 
+🐦 Peck: Only usable while elytra flying. Dash forward, and grant Peck effect. When colliding with an entity, deal damage to that entity and remove the effect from self.
+
 # Types 💭:
 ## (All types attributes will be Max 2. When a Pokemon is of a specific type, +1. Stab multiplier is * 1.3(Type).
 
