@@ -92,11 +92,11 @@ In direct sunlight, Movement Speed: +15%.
 ### 🩰 Dancer: [Completely Changed]
 Passive Aura depending on current state:
 
-🏅 Pom-Pom: +10% Movement Speed, +25% Draw Speed, +0.25 Attack Speed.
+🏅 Pom-Pom: +10% Movement Speed, +25% Draw Speed, +0.25 Attack Speed, +15% Cooldown Reduction.
 
 💃 Baile: +15% Arrow Velocity, +15% Attack Damage.
 
-🌴 Pa'U: +10% Cooldown Reduction, +25% Mana Regen, +3 Attack Power.
+🌴 Pa'U: +50% Mana Regen, +3 Attack Power, +35% Effect Rate.
 
 👘 Sensu: +15% Stealth and Evasion.
 
