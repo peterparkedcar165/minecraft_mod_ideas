@@ -237,3 +237,7 @@ Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased A
 
 
 # Misc 💭:
+
+# Side Notes 💭:
+
+1. If you make a particle with the long animation textures, but don't specify that it is supposed to be animated, the software will choose a random one to render.
