@@ -47,6 +47,27 @@ Smoke Screen
 
 Swift
 
+### 🕸️ Weedle:
+Poison Sting
+### 🕸️ Kakuna:
+Harden
+
+Poison Sting
+### 🕸️💀 Beedrill:
+Pin Missile
+Twineedle
+Poison Jab
+Focus Energy
+
+### 👁️ Espurr:
+Confusion
+
+### 👁️ Meowstic (M):
+Psybeam
+Safeguard
+Reflect/Light Screen (make it one)
+Psychic Terrain
+
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
@@ -135,6 +156,11 @@ Passive Aura depending on current state:
 🐦 Brave Bird: Only usable while elytra flying. Dash forward, and grant Brave Bird effect. When colliding with an entity, deal damage to that entity and remove the effect from self.
 
 ⭐ Smoke Screen: Throw a smoke ball that expands into a wider smoke area, increasing stealth of players while blinding hostiles.
+
+👁️ Psybeam: Raycast rainbow particles dealing overtime damage to enemies.
+
+👁️ Psychic Terrain: Create a big field of psychic energy. Players in the field have Attack Power increased. Enemies inside the field are slowed and take increased damage.
+
 
 # Types 💭:
 ## (All types attributes will be Max 2. When a Pokemon is of a specific type, +1. Stab multiplier is * 1.3(Type).
