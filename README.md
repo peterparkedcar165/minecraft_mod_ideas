@@ -51,37 +51,32 @@ Swift
 ### 💧 Torrent:
 When under 50% health:
 
-Attack Damage: +3, +6 Underwater;
+Water Moves Damage: +25%, +50% Underwater or rain;
 
-Arrow Velocity: +0.15, +0.3 Underwater;
-
-Effect Hit Rate: +50%, +75% Underwater;
+Cooldown Reduction: +15%, +25% Underwater or rain;
 
 Swimming Speed: +75%.
 
 ### 🍀 Overgrow:
 When under 50% health:
 
-Attack Damage: +3, +6 near leaves;
+Grass Moves Damage: +25%, +50% near leaves;
 
-Arrow Velocity: +0.15, +0.3 near leaves;
+Cooldown Reduction: +15%, +25% near leaves;
 
-Effect Hit Rate: +50%, +75% near leaves;
+Healing Received: +25%, +50% near leaves.
 
-Armor: +4, +8 near leaves.
 ### 🔥 Blaze:
 When under 50% health:
 
-Attack Damage: +3, +6 in direct sunlight or on fire;
+Fire Moves Damage: +25%, +50% in direct sunlight or on fire;
 
-Arrow Velocity: +0.15, +0.3 in direct sunlight or on fire;
-
-Effect Hit Rate: +50%, +75% in direct sunlight or on fire;
+Cooldown Reduction: +15%, +25% near in direct sunlight or on fire;
 
 Movement Speed: +15%, +25% near in direct sunlight or on fire.
 
 ### 🔫 Sniper:
-Crit Chance: +50%.
+Crit Damage: +50%.
 
 ### 👟 Run Away:
 After being hit, Movement Speed: +20%.
@@ -134,6 +129,10 @@ Passive Aura depending on current state:
 ✴ Poison Sting: Shoot a poisonous dart that damages the first target hit, with a 50% chance to inflict the target with Deadly Poison.
 
 🐦 Peck: Only usable while elytra flying. Dash forward, and grant Peck effect. When colliding with an entity, deal damage to that entity and remove the effect from self.
+
+🐦 Aerial Ace: Only usable while elytra flying. Dash forward, and grant Aerial Ace effect. When colliding with an entity, deal damage to that entity and remove the effect from self.
+
+🐦 Brave Bird: Only usable while elytra flying. Dash forward, and grant Brave Bird effect. When colliding with an entity, deal damage to that entity and remove the effect from self.
 
 # Types 💭:
 ## (All types attributes will be Max 2. When a Pokemon is of a specific type, +1. Stab multiplier is * 1.3(Type).
