@@ -117,8 +117,11 @@ Passive Aura depending on current state:
 
 🍀 Giga Drain:
 
-🍀 Leafage: Send forth 
-🍀 Razor Leaf:
+🍀 Leafage: Send forth a single leaf, dealing damage to the first target hit.
+
+🍀 Razor Leaf: Send forth a single leaf, and grant Razor Leaf to self. During that time, every arrow hit will send a leaf forward.
+
+🍀 Leaf Blade: Grant Leaf Blade effect to self. Increase Crit Chance by 35%. Every melee attack will strike once more dealing 50% of Attack Damage, dealing Grass damage.
 
 🔥 Ember: Shoot a ball of flame, damaging the first target hit, with a 50% base chance to set target on fire for 4 seconds.
 
