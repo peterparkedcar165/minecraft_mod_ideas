@@ -73,6 +73,7 @@ Psychic
 Psyshock
 Nasty Plot
 Expanding Force
+
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
