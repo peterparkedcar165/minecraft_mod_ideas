@@ -68,6 +68,11 @@ Safeguard
 Reflect/Light Screen (make it one)
 Psychic Terrain
 
+### 👁️ Meowstic (F):
+Psychic
+Psyshock
+Nasty Plot
+Expanding Force
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
@@ -159,7 +164,11 @@ Passive Aura depending on current state:
 
 👁️ Psybeam: Raycast rainbow particles dealing overtime damage to enemies.
 
+👁️ Psyshock: Shoot projectile that explodes upon impact, and deals continuous little explosions, dealing further damage.
+
 👁️ Psychic Terrain: Create a big field of psychic energy. Players in the field have Attack Power increased. Enemies inside the field are slowed and take increased damage.
+
+👁️ Future Sight: Mark the current area. After 8 seconds, closes and deals big damage.
 
 
 # Types 💭:
