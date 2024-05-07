@@ -107,9 +107,9 @@ Passive Aura depending on current state:
 
 💧 Water Pulse: Unleash a bubble (cube) that remains and entraps hostiles.
 
-💧 Rain Dance: Turns the world rainy. Announce in chat, turns it rainy for 4 minutes. Cooldown is 8 minutes.
+💧 Rain Dance: Give Rain Dance effect to self for 4 minutes. During that time, if in Overworld, constant rain. Once effect ends, goes immediately to Sunny, even if it was thundering.
 
-💧 Whirlpool: Shoot a big bubble projectile, that bursts into a vortex of bubbles, luring enemies in and damaging them over time.
+💧 Whirlpool: Summon a bubble vortex on self, draws in enemies and entraps them while damaging them.
 
 🍀 Absorb:
 
