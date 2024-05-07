@@ -84,6 +84,17 @@ Nasty Plot
 
 Expanding Force
 
+### 🔥💀 Salandit:
+Ember
+Smog
+
+### 🔥💀 Salazzle:
+Flamethrower
+Sludge Bomb
+Toxic
+Venoshock
+Smog
+
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
