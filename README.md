@@ -86,14 +86,20 @@ Expanding Force
 
 ### 🔥💀 Salandit:
 Ember
+
 Smog
 
 ### 🔥💀 Salazzle:
 Flamethrower
+
 Sludge Bomb
+
 Toxic
+
 Venoshock
+
 Smog
+
 
 # Abilities 💭:
 ### 💧 Torrent:
@@ -142,6 +148,9 @@ Passive Aura depending on current state:
 🌴 Pa'U: +50% Mana Regen, +3 Attack Power, +35% Effect Rate.
 
 👘 Sensu: +15% Stealth and Evasion.
+
+### 💀 Corrosion:
+Every attack from this player applies a stacking effect of Corrosion, with every level reducing the target's armor by 1.
 
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
