@@ -107,7 +107,7 @@ Passive Aura depending on current state:
 
 💧 Water Pulse: Unleash a bubble (cube) that remains and entraps hostiles.
 
-💧 Rain Dance: Turns the world rainy.
+💧 Rain Dance: Turns the world rainy. Announce in chat, turns it rainy for 4 minutes. Cooldown is 8 minutes.
 
 💧 Whirlpool: Shoot a big bubble projectile, that bursts into a vortex of bubbles, luring enemies in and damaging them over time.
 
