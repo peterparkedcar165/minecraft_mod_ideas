@@ -242,7 +242,7 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. Used to quantify damage dealt by abilities. Equal to 75% of Attack Damage, 20x of (Arrow Damage and Velocity - 1).
 
 # Enchants 💭:
-
+Spell Caster: Reduces Attack Damage, but increases Attack Power by twice the increment, favourising spell casting.
 
 # Special Treatments 💭:
 Espurr line are Cats, so Creepers ignore, or run away from.
