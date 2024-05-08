@@ -221,7 +221,7 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 
 👻 Ghost: Can phase through walls for a very short duration. Take increased suffocation damage. Increase Evasion by 25%, 50% when in <6 light level.
 
-🌙 Dark: During night time, Movement Speed +15%, Stealth +25%, Evasion +25%.
+🌙 Dark: During night time, regardless of exposure, Movement Speed +15%, Stealth +25%, Evasion +25%. Not effective in End and Nether.
 
 👊 Fighting: Increased Attack Damage and Attack Speed.
 
