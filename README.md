@@ -215,7 +215,7 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 
 ❄️ Ice: Immune to Freezing damage, Slowness, and Mining Fatigue.
 
-🐦 Flying: No fall damage. Increased air speed by a little.
+🐦 Flying: No fall damage. No kinetic damage. Increased air speed by a little.
 
 🕸️ Bug: May move faster within cobweb, and climb freely. Unaffected by cacti and berry bushes.
 
