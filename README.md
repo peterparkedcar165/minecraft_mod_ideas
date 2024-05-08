@@ -229,7 +229,7 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 
 🪨 Rock: Increased Attack Damage and Armor when in low altitude (<60)
 
-🛡️ Steel: Increase Armor, Armor grants extra Attack Power.
+🛡️ Steel: Increase Armor, Armor grants extra Attack Damage.
 
 ✨ Fairy: Standing around flowers or in light levels of above 6 grants Damage Reduction, slow regeneration, and cooldown reduction.
 
