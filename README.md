@@ -239,7 +239,7 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 
 # Attributes 💭:
 
-Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. Used to quantify damage dealt by abilities. Equal to 100% of Attack Damage, 400% of Arrow Damage and Velocity.
+Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. Used to quantify damage dealt by abilities. Equal to 75% of Attack Damage, 20x of (Arrow Damage and Velocity - 1).
 
 # Enchants 💭:
 
