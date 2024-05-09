@@ -155,6 +155,9 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 ### 👁️ Telepathy:
 Allows the player to switch between Telepathic states, when its turned on, all players are visible to the player, and this player is visible to all players too. (glowing).
 
+### 👊 Steadfast:
+Increase Speed when in dark areas, and when afflicted by debuffs.
+
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
