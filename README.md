@@ -170,7 +170,7 @@ Movement Speed: +15%, +25% near in direct sunlight or on fire.
 Crit Damage: +50%.
 
 ### 👟 Run Away:
-After being hit, Movement Speed: +20%.
+After being hit, Movement Speed: +25%, Evasion: +50%..
 
 ### 🌻 Chlorophyll:
 In direct sunlight, Movement Speed: +15%.
