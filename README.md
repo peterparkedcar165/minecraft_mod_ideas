@@ -102,19 +102,27 @@ Smog
 
 ### 👁️🧚 Ralts:
 Confusion
+
 Disarming Voice
 
 ### 👁️🧚 Kirlia:
 Confusion
+
 Draining Kiss
+
 Disarming Voice
+
 Life Dew
 
 ### 👁️🧚 Gardevoir:
 Psychic
+
 Moonblast
+
 Draining Kiss
+
 Disarming Voice
+
 Life Dew
 
 ### 👁️👊 Gallade: 
