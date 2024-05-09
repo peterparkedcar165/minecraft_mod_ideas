@@ -152,6 +152,9 @@ Passive Aura depending on current state:
 ### 💀 Corrosion:
 Every attack from this player applies a stacking effect of Corrosion, with every level reducing the target's armor by 1.
 
+### 👁️ Telepathy:
+Allows the player to pass the command "/telepathy" which displays the current health and armor of every player in the same world.
+
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
@@ -211,7 +214,7 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 
 🍀 Grass: Can regenerate nutrients but not saturation, when on water or sunlight. Slowly though. When food is at max, not saturation, increase armor.
 
-👁️ Psychic: Increased Mana Regen, increased Cooldown Reduction, and Effect Rate.
+👁️ Psychic: Increased Mana Regen, increased Cooldown Reduction, and Effect Rate. Footsteps do not alert sculk.
 
 ❄️ Ice: Immune to Freezing damage, Slowness, and Mining Fatigue.
 
@@ -234,6 +237,9 @@ Every attack from this player applies a stacking effect of Corrosion, with every
 ✨ Fairy: Standing around flowers or in light levels of above 6 grants Damage Reduction, slow regeneration, and cooldown reduction.
 
 # Effects 💭:
+Deadly Poison: Identical to the regular Poison, except this one kills.
+
+Confused: Reduced Follow Range if mob by 50%, take increased damage from ...?
 
 # Potions 💭:
 
