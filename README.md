@@ -153,7 +153,7 @@ Passive Aura depending on current state:
 Every attack from this player applies a stacking effect of Corrosion, with every level reducing the target's armor by 1.
 
 ### 👁️ Telepathy:
-Allows the player to pass the command "/telepathy" which displays the current health and armor of every player in the same world.
+Allows the player to switch between Telepathic states, when its turned on, all players are visible to the player, and this player is visible to all players too. (glowing).
 
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
