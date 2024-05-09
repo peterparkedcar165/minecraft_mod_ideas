@@ -291,7 +291,7 @@ Beedrill has wings, so can fly, for a duration.
 
 Ralts, Kirlia, Gardevoir have decreased Attack Speed and Attack Damage, but have increased Cooldown Reduction and Attack Power to compensate.
 
-Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased Attack Power, Attack Damage, and Attack Speed.
+Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased Attack Power, Attack Damage, and Attack Speed. Cooldown Reduction is increased through Attack Speed.
 
 
 # Misc 💭:
