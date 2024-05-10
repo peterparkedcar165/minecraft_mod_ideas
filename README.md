@@ -274,7 +274,7 @@ Increase Speed when in dark areas, and when afflicted by debuffs.
 
 🛡️ Steel: Increase Armor, Armor grants extra Attack Damage.
 
-✨ Fairy: Standing around flowers or in light levels of above 6 grants Damage Reduction, slow regeneration, and cooldown reduction.
+✨ Fairy: Grants Effect Rate and Cooldown Reduction. Standing around flowers grants a very slow regeneration.
 
 # Effects 💭:
 Deadly Poison: Identical to the regular Poison, except this one kills.
