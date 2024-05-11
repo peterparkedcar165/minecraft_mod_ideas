@@ -256,6 +256,10 @@ Increase Speed when in dark areas, and when afflicted by debuffs.
 
 🐦 Brave Bird: Only usable while elytra flying. Dash forward, and grant Brave Bird effect. When colliding with an entity, deal damage to that entity and remove the effect from self.
 
+🐦 Gust: Unleash a strong wind that damages and pushes enemies.
+
+🐦 Air Cutter: Grant Air Cutter to self, during that time, every arrow hit will send an air blade forward.
+
 ⭐ Smoke Screen: Throw a smoke ball that expands into a wider smoke area, increasing stealth of players while blinding hostiles.
 
 👁️ Psybeam: Raycast rainbow particles dealing overtime damage to enemies.
