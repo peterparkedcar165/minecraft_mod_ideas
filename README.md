@@ -47,22 +47,44 @@ Smoke Screen
 
 Swift
 
-### 🕸️ Weedle:
+### 🕸️ Wurmple:
 Poison Sting
-### 🕸️ Kakuna:
+### 🕸️ Cascoon/Silcoon:
 Harden
 
 Poison Sting
-### 🕸️💀 Beedrill:
-Pin Missile
+### 🕸️💀 Dustox (Tier 1):
+Sludge
 
-Twineedle
+Struggle Bug
 
-Poison Jab
+Poison Sting
+### 🕸️💀 Dustox (Tier 2):
+Sludge Bomb
 
-Focus Energy
+Bug Buzz
 
+Toxic
 
+Venoshock
+
+Moonlight
+### 🕸️🐦 Beautifly (Tier 1):
+Gust
+
+Struggle Bug
+
+Absorb
+### 🕸️🐦 Beautifly (Tier 2):
+Air Cutter
+
+Bug Buzz
+
+Mega Drain
+
+Quiver Dance
+
+Morning Sun
 ### 👁️ Espurr:
 Confusion
 
