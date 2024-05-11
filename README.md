@@ -336,3 +336,16 @@ Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased A
 
 # Things to test in Multiplayer 💭:
 Telepathy
+
+# Evolution:
+In order to evolve, everybody needs to reach a certain level based on their stage in the evolution.
+
+First -> Second: Level ~25. Must craft an Orb of Evolution (Tier 1)
+
+Exception: Wurmple to coccoons Level 15. No Orb required.
+
+Second -> Third: Level ~45. Must craft an Orb of Evolution (Tier 2)
+
+Exception: Coccoons to Dustox and Beautifly, Level 25 and Orb of Evolution 1.
+
+For two stages evolution (ex: vulpix/ninetales), must be level 35 with orb 1.
