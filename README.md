@@ -1,5 +1,5 @@
 # Minecraft Pokemon Mod:
-File that contains my brainstorming for a great Pokemon Minecraft mod.
+File that contains my brainstorming for a great Pokemon Minecraft mod. Abilities and moves may not be exactly the same as in the game, but are very similar.
 # Pokemon Evolutionary Line💭:
 ### 💧 Piplup:
 Bubble
@@ -269,6 +269,10 @@ Increase Speed when in dark areas, and when afflicted by debuffs.
 👁️ Psychic Terrain: Create a big field of psychic energy. Players in the field have Attack Power increased. Enemies inside the field are slowed and take increased damage.
 
 👁️ Future Sight: Mark the current area. After 8 seconds, closes and deals big damage.
+
+🧚 Disarming Voice: Launch 4 projectiles after a cry, homing towards hostiles.
+
+🧚 Attract (typically Normal type, but here Fairy): Deploy a love bubble that damages and infatuates the first hostile hit.
 
 
 # Types 💭:
