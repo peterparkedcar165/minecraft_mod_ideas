@@ -334,6 +334,7 @@ Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased A
 
 # Misc 💭:
 
+What if Attack Damage is what is used for Physical moves, and Attack Power is what is used for special moves.
 # Side Notes 💭:
 
 1. If you make a particle with the long animation textures, but don't specify that it is supposed to be animated, the software will choose a random one to render.
