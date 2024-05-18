@@ -186,6 +186,18 @@ Flower Shield
 
 Safeguard
 
+### ❄️ Vulpix:
+Powder Snow
+
+### ❄️🧚 Ninetales:
+Icy Wind
+
+Blizzard
+
+Dazzling Gleam
+
+Aurora Veil
+
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
