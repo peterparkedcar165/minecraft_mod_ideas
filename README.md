@@ -134,7 +134,7 @@ Draining Kiss
 
 Disarming Voice
 
-Life Dew
+Attract
 
 ### 👁️🧚 Gardevoir:
 Psychic
@@ -143,9 +143,9 @@ Moonblast
 
 Draining Kiss
 
-Disarming Voice
+Attract
 
-Life Dew
+Disarming Voice
 
 ### 👁️👊 Gallade: 
 [Special] Slasher: Increase Crit Rate by 15%. Change between Blade states. Psycho Cutter / Night Slash. These are all effects that grant bonus stats, and have bonus effects when hitting with a melee weapon. [TBD!!!!]
