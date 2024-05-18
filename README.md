@@ -339,6 +339,29 @@ What if Attack Damage is what is used for Physical moves, and Attack Power is wh
 
 1. If you make a particle with the long animation textures, but don't specify that it is supposed to be animated, the software will choose a random one to render.
 
+# Weapon 💭:
+
+## 🪄 Wands:
+Wooden Wand: +3 Attack Power, +15% Cooldown Reduction.
+
+Iron Wand: +5 Attack Power, +25% Cooldown Reduction.
+
+Golden Wand: +3 Attack Power, +35% Cooldown Reduction.
+
+Diamond Wand: +7 Attack Power, +35% Cooldown Reduction.
+
+Netherite Wand: +9 Attack Power, +50% Cooldown Reduction.
+
+## 📖 Grimoire:
+
+Frail Grimoire of The Spellweaver
+
+Frail Grimoire of The Warlock
+
+Noble Grimoire of The Spellweaver
+
+Noble Grimoire of The Warlock
+
 # Things to test in Multiplayer 💭:
 Telepathy
 
