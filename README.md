@@ -211,6 +211,20 @@ Swift
 Agility
 
 Infestation
+
+### 💧 Finneon:
+Water Gun
+
+### 💧 Lumineon:
+Water Pulse
+
+Attract
+
+Aqua Ring
+
+Soak
+
+Safeguard
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
@@ -287,6 +301,10 @@ Increase Evasion by 25% in Snowy biomes, and by 50% when it's actually snowing.
 💧 Rain Dance: Give Rain Dance effect to self for 4 minutes. During that time, if in Overworld, constant rain. Once effect ends, goes immediately to Sunny, even if it was thundering.
 
 💧 Whirlpool: Summon a bubble vortex on self, draws in enemies and entraps them while damaging them.
+
+💧 Soak: Shoot a jet of water that soaks hostiles hit, slowing their movements and rendering them more vulnerable to attacks.
+
+💧 Aqua Ring: Surround yourself in a veil of water, regenerating your health, and of those that are very near you.
 
 🍀 Absorb:
 
@@ -402,6 +420,8 @@ Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased A
 Ledyba and Ledian can glide, with the duration scaling over evolution.
 
 Flabebe line has increased stats around flowers, and can fly but at slow speed.
+
+Finneon walks slowly on land, and Lumineon walks normally. They both have increased defensive stats.
 
 # Misc 💭:
 
