@@ -198,6 +198,19 @@ Dazzling Gleam
 
 Aurora Veil
 
+### 🕸️🐦 Ledyba: [Special: gliding. increased defensive stats]
+Mach Punch
+
+### 🕸️🐦 Ledian: [Special: gliding. increased defensive stats].
+Mach Punch
+
+Aerial Ace
+
+Swift
+
+Agility
+
+Infestation
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
@@ -258,6 +271,9 @@ Increase Speed when in dark areas, and when afflicted by debuffs.
 ### 🍀 Flower Veil:
 Immunity to negative effects when standing around flowers.
 
+### 🥊 Iron Fist:
+Increase combat stats while dual-wielding gloves.
+
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
@@ -303,6 +319,10 @@ Immunity to negative effects when standing around flowers.
 
 ⭐ Smoke Screen: Throw a smoke ball that expands into a wider smoke area, increasing stealth of players while blinding hostiles.
 
+⭐ Swift: Shoot a bunch of stars forward, like Disarming Voice, homes towards targets.
+
+👁️ Agility: Increases Movement Speed, Flight Speed, Attack Speed, and Swim Speed. By quite a bit.
+
 👁️ Psybeam: Raycast rainbow particles dealing overtime damage to enemies.
 
 👁️ Psyshock: Shoot projectile that explodes upon impact, and deals continuous little explosions, dealing further damage.
@@ -314,6 +334,10 @@ Immunity to negative effects when standing around flowers.
 🧚 Disarming Voice: Launch 4 projectiles after a cry, homing towards hostiles.
 
 🧚 Attract (typically Normal type, but here Fairy): Deploy a love bubble that damages and infatuates the first hostile hit.
+
+🥊 Mach Punch: Dash forward, and grant the Mach Punch effect. Next attack deals x1.25 damage, and decreases the cooldown of Mach Punch by 20%.
+
+🕸️ Infestation: Projectile that infests the target with bugs. Slowly damaging over time based on missing armor. Starts at Infestation 2, lowering 4 armor, and every tick of damage increases the level by 1.
 
 
 # Types 💭:
