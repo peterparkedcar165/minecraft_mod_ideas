@@ -160,6 +160,32 @@ Brick Break: Buff self for 12 seconds. Attacks against hostiles reduce their Arm
 Swords Dance: Increase Attack Damage for a short duration. Long cooldown.
 
 ...
+
+### 🧚 Flabébé:
+Fairy Wind
+
+Wish
+
+### 🧚 Floette:
+Fairy Wind
+
+Wish
+
+Safeguard
+
+Grassy Terrain
+
+### 🧚 Florges:
+Moonblast
+
+Floral Healing
+
+Grassy Terrain
+
+Moonblast
+
+Safeguard
+
 # Abilities 💭:
 ### 💧 Torrent:
 When under 50% health:
@@ -216,6 +242,9 @@ Allows the player to switch between Telepathic states, when its turned on, all p
 
 ### 👊 Steadfast:
 Increase Speed when in dark areas, and when afflicted by debuffs.
+
+### 🍀 Flower Veil:
+Immunity to negative effects when standing around flowers.
 
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
