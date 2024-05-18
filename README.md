@@ -274,6 +274,9 @@ Immunity to negative effects when standing around flowers.
 ### 🥊 Iron Fist:
 Increase combat stats while dual-wielding gloves.
 
+### ❄️ Snow Cloak:
+Increase Evasion by 25% in Snowy biomes, and by 50% when it's actually snowing.
+
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
@@ -396,6 +399,9 @@ Ralts, Kirlia, Gardevoir have decreased Attack Speed and 0 Attack Damage, but ha
 
 Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased Attack Power, Attack Damage, and Attack Speed. Cooldown Reduction is increased through Attack Speed.
 
+Ledyba and Ledian can glide, with the duration scaling over evolution.
+
+Flabebe line has increased stats around flowers, and can fly but at slow speed.
 
 # Misc 💭:
 
