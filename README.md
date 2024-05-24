@@ -85,26 +85,6 @@ Mega Drain
 Quiver Dance
 
 Morning Sun
-### 👁️ Espurr:
-Confusion
-
-### 👁️ Meowstic (M):
-Psybeam
-
-Safeguard
-
-Reflect/Light Screen (make it one)
-
-Psychic Terrain
-
-### 👁️ Meowstic (F):
-Psychic
-
-Psyshock
-
-Nasty Plot
-
-Expanding Force
 
 ### 🔥💀 Salandit:
 Ember
