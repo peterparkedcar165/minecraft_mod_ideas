@@ -128,11 +128,13 @@ Attract
 Disarming Voice
 
 ### 👁️👊 Gallade: 
-[Special] Slasher: Increase Crit Rate by 15%. Change between Blade states. Psycho Cutter / Night Slash. These are all effects that grant bonus stats, and have bonus effects when hitting with a melee weapon. [TBD!!!!]
+Sharpness
 
-Psycho Cutter: Deals an additional 50% Attack Power damage, that pierces armor.
+Psycho Cutter: Increase Armor Piercing by 50%. Deals an additional 50% Spell Power damage.
 
 Night Slash: Crit Rate increased by another 15%, and increase Attack Speed at night. Deals 15% Attack Power damage to nearby enemies per hit.
+
+Aqua Cutter: Increase Attack Speed by 1. Deals an additional instance of water damage, based on Attack Speed and Spell Power.
 
 
 Brick Break: Buff self for 12 seconds. Attacks against hostiles reduce their Armor by 8 points, and remove Resistance/Absorption.
@@ -270,6 +272,9 @@ Increase combat stats while dual-wielding gloves.
 
 ### ❄️ Snow Cloak:
 Increase Evasion by 25% in Snowy biomes, and by 50% when it's actually snowing.
+
+### ⚔️ Sharpness:
+Increase Crit Rate by 15% while dual-wielding swords.
 
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
