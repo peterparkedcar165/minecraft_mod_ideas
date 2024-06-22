@@ -415,13 +415,13 @@ What if Attack Damage is what is used for Physical moves, and Attack Power is wh
 ## 🪄 Wands:
 Wooden Wand: +3 Attack Power, +15% Cooldown Reduction.
 
-Iron Wand: +5 Attack Power, +25% Cooldown Reduction.
+Iron Wand: +6 Attack Power, +25% Cooldown Reduction.
 
-Golden Wand: +3 Attack Power, +35% Cooldown Reduction.
+Golden Wand: +4 Attack Power, +35% Cooldown Reduction.
 
-Diamond Wand: +7 Attack Power, +35% Cooldown Reduction.
+Diamond Wand: +8 Attack Power, +35% Cooldown Reduction.
 
-Netherite Wand: +9 Attack Power, +50% Cooldown Reduction.
+Netherite Wand: +10 Attack Power, +50% Cooldown Reduction.
 
 ## 📖 Grimoire:
 
@@ -432,6 +432,19 @@ Frail Grimoire of The Warlock
 Noble Grimoire of The Spellweaver
 
 Noble Grimoire of The Warlock
+
+## 📘 Enchantments:
+
+### Wands: Displayed by Max level, and rarity.
+Spell Intensity V: Increase Spell Power by 2 per level. Epic.
+
+Knowledge V: Increase Cooldown Reduction by 10% per level. Epic.
+
+Sorcery V: Increase Secondary Effect Chance by 10% per level. Epic.
+
+Magic Critical Rate: Increase Crit Chance by 10% per level. Epic.
+
+Magic Critical Damage: Increase Crit Damage by 10% per level. Epic.
 
 # Things to test in Multiplayer 💭:
 Telepathy
