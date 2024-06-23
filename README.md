@@ -451,6 +451,27 @@ Magic Critical Rate: Increase Crit Chance by 10% per level. Epic.
 
 Magic Critical Damage: Increase Crit Damage by 10% per level. Epic.
 
+# Held Items:
+Held Items will all fight for one bauble slot.
+
+Miracle Seed
+
+Mystic Water
+
+Charcoal
+
+Twisted Spoon
+
+Fairy Feather
+
+Dragon Fang
+
+Black Glasses
+
+Wise Glasses
+
+Never-Melt Ice
+
 # Things to test in Multiplayer 💭:
 Telepathy
 
