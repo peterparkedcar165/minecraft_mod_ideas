@@ -472,6 +472,8 @@ Wise Glasses
 
 Never-Melt Ice
 
+Lucky Egg
+
 # Things to test in Multiplayer 💭:
 Telepathy
 
