@@ -1,5 +1,9 @@
 # Minecraft Pokemon Mod:
 File that contains my brainstorming for a great Pokemon Minecraft mod. Abilities and moves may not be exactly the same as in the game, but are very similar.
+
+Mostly alterred by Tommy's mind.
+
+May have been inspired by some stuff from PokeRogue.
 # Pokemon Evolutionary Line💭:
 ### 💧 Piplup:
 Bubble
