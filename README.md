@@ -517,5 +517,5 @@ For two stages evolution (ex: vulpix/ninetales), must be level 35 with orb 1.
 ###### Leeching: Increase Lifesteal by 50%. [DONE]
 ###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second. [DONE]
 ###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%. [DONE]
-###### Terrifying: Players in a 4-block radius will suffer a Darkness effect for 4 seconds as long as they are within the range. They will also be bombarded with mob sounds, masking the the real ones. [DONE]
+###### Terrifying: Players in a 6-block radius will suffer a Darkness effect for 4 seconds as long as they are within the range. They will also be bombarded with mob sounds, masking the the real ones. [DONE]
 ###### Upon dying, these mobs drop an increased amount of Experience. [DONE]
