@@ -509,7 +509,7 @@ For two stages evolution (ex: vulpix/ninetales), must be level 35 with orb 1.
 ###### Speedy: Increase Movement Speed by 35%. [DONE]
 ###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 25% of the Armor of the mob. [DONE]
 ###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds. [DONE]
-###### Sporous: Players in a 4-block radius will suffer a Poison 1 for 2 seconds, and Nausea effect for 8 seconds, as long as they are in the range. [DONE]
+###### Sporous: Players in a 4-block radius will suffer a Slowness 1 and Poison 1 for 2 seconds, and Nausea effect for 8 seconds, as long as they are in the range. [DONE]
 ###### Freezing: Attacks apply a Freezing effect for 8 seconds. [DONE]
 ###### Chilling: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range. [DONE]
 ###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%. [DONE]
@@ -517,5 +517,5 @@ For two stages evolution (ex: vulpix/ninetales), must be level 35 with orb 1.
 ###### Leeching: Increase Lifesteal by 50%. [DONE]
 ###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second. [DONE]
 ###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%. [DONE]
-
+###### Terrifying: Players in a 4-block radius will suffer a Darkness effect for 4 seconds as long as they are within the range. They will also be bombarded with mob sounds, masking the the real ones. [DONE]
 ###### Upon dying, these mobs drop an increased amount of Experience. [DONE]
