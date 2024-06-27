@@ -523,3 +523,21 @@ For two stages evolution (ex: vulpix/ninetales), must be level 35 with orb 1.
 ###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%. [DONE]
 ###### Terrifying: Players in a 6-block radius will suffer a Darkness effect for 4 seconds as long as they are within the range. They will also be bombarded with mob sounds, masking the the real ones. [DONE]
 ###### Upon dying, these mobs drop an increased amount of Experience. [DONE]
+
+# Hidden Passives: An additional ability will be given to the Player of a specific Pokemon evolutionary line upon completing an objective.
+
+## Piplup Line:
+
+Defiant: Convert Weakness to Strength and Wisdom equal to same level and duration.
+
+## Cyndaquil Line:
+
+Flash Fire: Reduce Fire damage taken by half. Upon taking Fire damage, increase Fire attribute by 1.
+
+## Rowlet Line:
+
+Chlorophyll: Increase Movement Speed in direct sunlight.
+
+## Ralts Line:
+
+Regenerator: When evading attacks, heal up 10% health.
