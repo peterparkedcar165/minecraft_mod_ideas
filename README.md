@@ -280,6 +280,9 @@ Increase Evasion by 25% in Snowy biomes, and by 50% when it's actually snowing.
 ### ⚔️ Sharpness:
 Increase Crit Rate by 15% while dual-wielding swords.
 
+### 💧 Swift Swim:
+Increase Swim Speed by 50%. Increase Movement Speed when touching by rain by 10%.
+
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
