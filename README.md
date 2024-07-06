@@ -573,3 +573,7 @@ Regenerator: When evading attacks, heal up 10% health.
 ## Finneon Line:
 
 Water Veil: Immune to burning. Take 50% reduced fire damage.
+
+## Sobble Line:
+
+Sniper
