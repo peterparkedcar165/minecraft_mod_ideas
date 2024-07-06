@@ -283,6 +283,10 @@ Increase Crit Rate by 15% while dual-wielding swords.
 ### 💧 Swift Swim:
 Increase Swim Speed by 50%. Increase Movement Speed when touching by rain by 10%.
 
+### ✖️ Sniper:
+Increase Crit Damage by 15%. Gain a charge of Sniper every 8 seconds, up to 3 charges. While charges are above 0, Crit Chance increases to 100%. When hitting, reduce Sniper by 1. Increase Crit Damage by 50% of Crit Chance above 100%.
+
+
 # Moves 💭:
 💧 Bubble: Shoot bubbles, damaging the first target hit, with a 50% base chance to apply a Slowness 1 effect for 12 seconds.
 
