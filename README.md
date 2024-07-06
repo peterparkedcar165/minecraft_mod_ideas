@@ -5,6 +5,27 @@ Mostly alterred by Tommy's mind.
 
 May have been inspired by some stuff from PokeRogue.
 # Pokemon Evolutionary Line💭:
+### 💧 Sobble:
+Water Gun
+
+### 💧 Drizzile:
+Water Pulse
+
+U-Turn
+
+Water Gun
+
+### 💧 Inteleon:
+Snipe Shot
+
+Water Pulse
+
+U-Turn
+
+Acrobatics
+
+Focus Energy
+
 ### 💧 Piplup:
 Bubble
 ### 💧 Prinplup:
