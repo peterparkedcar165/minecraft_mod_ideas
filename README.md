@@ -398,23 +398,6 @@ Ability Power: Attribute based off Attack Damage, Arrow Damage, Arrow Velocity. 
 # Enchants 💭:
 Spell Caster: Reduces Attack Damage, but increases Attack Power by twice the increment, favourising spell casting.
 
-# Special Treatments 💭:
-Espurr line are Cats, so Creepers ignore, or run away from.
-
-Rowlet line has natural elytra flight, duration scales over evolution.
-
-Beedrill has wings, so can fly, for a duration.
-
-Ralts, Kirlia, Gardevoir have decreased Attack Speed and 0 Attack Damage, but have increased Cooldown Reduction and Attack Power to compensate.
-
-Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased Attack Power, Attack Damage, and Attack Speed. Cooldown Reduction is increased through Attack Speed.
-
-Ledyba and Ledian can glide, with the duration scaling over evolution.
-
-Flabebe line has increased stats around flowers, and can fly but at slow speed.
-
-Finneon walks slowly on land, and Lumineon walks normally. They both have increased defensive stats.
-
 # Misc 💭:
 
 What if Attack Damage is what is used for Physical moves, and Attack Power is what is used for special moves.
@@ -526,6 +509,23 @@ For two stages evolution (ex: vulpix/ninetales), must be level 35 with orb 1.
 ###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%. [DONE]
 ###### Terrifying: Players in a 6-block radius will suffer a Darkness effect for 4 seconds as long as they are within the range. They will also be bombarded with mob sounds, masking the the real ones. [DONE]
 ###### Upon dying, these mobs drop an increased amount of Experience. [DONE]
+
+# Special Treatments 💭:
+Espurr line are Cats, so Creepers ignore, or run away from.
+
+Rowlet line has natural elytra flight, duration scales over evolution.
+
+Beedrill has wings, so can fly, for a duration.
+
+Ralts, Kirlia, Gardevoir have decreased Attack Speed and 0 Attack Damage, but have increased Cooldown Reduction and Attack Power to compensate.
+
+Gallade has decreased Arrow Velocity, Damage and Draw Speed, but has increased Attack Power, Attack Damage, and Attack Speed. Cooldown Reduction is increased through Attack Speed.
+
+Ledyba and Ledian can glide, with the duration scaling over evolution. Increase in Armor.
+
+Flabebe line has increased stats around flowers, and can fly but at slow speed.
+
+Finneon walks slowly on land, and Lumineon walks normally. They both have increased defensive stats. Increase in Armor.
 
 # Hidden Passives: An additional ability will be given to the Player of a specific Pokemon evolutionary line upon completing an objective.
 
